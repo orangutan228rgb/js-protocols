@@ -3,5 +3,4 @@
   <br>
   <strong>ПРОТОКОЛЫ</strong>
 </p>
-PROTOCOLS:
-UDP, TCP, DNS, QUIC, Telnet, TLS
+<strong>UDP, TCP, DNS, QUIC, Telnet, TLS</strong>
