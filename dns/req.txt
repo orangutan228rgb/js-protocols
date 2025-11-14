@@ -1,0 +1,3 @@
+npm init -y
+npm install dns2 
+в терминале обязательнооооо
